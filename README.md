@@ -11,11 +11,12 @@ visualizes spending using matplotlib.
 - CSV-based persistent storage
 - Category-wise spending dashboard
 
+## Tech Used
+- Python
+- matplotlib
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
 python main.py
 
-## Tech Used
-Python
-matplotlib
